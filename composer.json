@@ -1,0 +1,14 @@
+{
+    "name": "drupal/standard",
+    "description": "Drupal 7 standard profile",
+    "require": {
+        "composer/installers": "~1.0"
+    },
+    "type": "drupal-profile",
+    "authors": [
+        {
+            "name": "Benjamin Doherty",
+            "email": "bjd@bangpound.org"
+        }
+    ]
+}
